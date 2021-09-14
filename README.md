@@ -1,2 +1,1 @@
-# twice-bot
-## currently still in very early development
+archived, and very likely to not come out of archives
